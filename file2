@@ -1,0 +1,5 @@
+echo "hello and welcome to git" > sample
+cal
+date
+uptime
+ps - ef
